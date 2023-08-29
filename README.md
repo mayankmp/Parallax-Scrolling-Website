@@ -2,11 +2,11 @@
 
 ### Deploy Link: https://mayankmp.github.io/Parallax-Scrolling-Website/
 
-- Animated Login Form Using HTML CSS & JavaScript
+- Parallax Scrolling Website Using HTML CSS & JavaScript
 - It contains a stylish and beautiful background.
 - With animation of floating labels.
-- And a button to show and hide the password.
-- Developed first with the Mobile First methodology, then for desktop.
+- And a button to show all my works and also fullscreen.
+- Developed first with the Desktop First methodology, then for Mobile.
 - Compatible with all mobile devices.
 
 💙 Follow me for more projects like this.
