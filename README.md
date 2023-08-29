@@ -1,6 +1,6 @@
 # Parallax Scrolling Website
 
-### Deploy Link: 
+### Deploy Link: https://mayankmp.github.io/Parallax-Scrolling-Website/
 
 - Animated Login Form Using HTML CSS & JavaScript
 - It contains a stylish and beautiful background.
@@ -11,4 +11,4 @@
 
 💙 Follow me for more projects like this.
 
-![preview img](/preview.png)
+![preview img](/preview.jpg)
